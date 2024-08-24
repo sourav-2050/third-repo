@@ -1,0 +1,131 @@
+.header-inbox{
+    display:flex;
+    width: 100%;
+    margin-bottom: 300px;
+}
+div img{
+    width: 100%;
+    height: auto;
+    position: inherit;
+}
+.headercontent{
+    position: absolute;
+    color:black;
+    text-align: right;
+    padding:200px 230px 200px 800px;
+    margin-top: 100px;
+}
+.primary{
+     padding: 10px;
+     font-size: 35px;
+     font-weight: 35px;
+     color: orange;
+     background-color: #F15B22;
+}
+.person{
+    display: flex;
+    width: 100%;
+    gap: 150px;
+}
+.person img{
+     height: 750px;
+     width: 550px;
+     margin-left: 150px;
+}
+.person-info{
+    height: 400px;
+    width: 400px;
+    margin-top: 200px;
+     
+}
+.person-info p {
+    font-size: 25px;
+    font-weight: 25px;
+    margin-bottom: 20px;
+}
+.person-info nav li{
+    font-size: 20x;
+    font-weight: 20px;
+}
+ 
+.person-title{
+    font-size: 45px;
+    font-weight: 45px;
+}
+.option-title{
+    margin-top: 200px;
+    text-align: center;
+}
+.second{
+    text-align: center;
+}
+.option{
+    margin-top: 50px;
+    display: flex;
+     margin-left: 500px;
+     gap: 50px;
+}
+.option img{
+    height: 90px;
+    width: 90px;
+}
+.gradient{
+    position: relative;
+    margin-top: 125px;
+    margin-left: 100px;
+}
+.gradient-img{
+    position: relative;
+    text-align: center;
+    height: 300px;
+    width: 1150px; 
+     background-image: url(../picture/watch.png);
+    background-repeat: no-repeat; 
+}
+.gra-ele{
+    position:absolute;
+     bottom: 50px;
+     margin-left: 20px;
+     height: 94px;
+     width: 450px;
+     font-size: 35px;
+     font-weight: 35px;
+}
+.prili{
+    margin-top: 10px;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: 25px;
+}
+.last{
+    margin-top: 80px;
+    background-color: black;
+    color: whitesmoke;
+    height: 550px;
+    width: 1600px;     
+}
+.last-div{
+    display: flex;
+}
+.last-container{
+    margin: 100px 400px 130px 200px;
+}
+.second-last{
+     margin-top: 150px;
+      padding-right: 220px;
+       font-size: 30px;
+       font-weight: 30px;
+}
+.second-last input{
+    padding: 10px;
+    font-size: 30px;
+    font-weight: 25px;
+    margin-bottom: 15px;
+}
+.one-more{
+
+    padding: 10px;
+    font-size: 30px;
+    font-weight: 25px; 
+    background-color: gray;
+}
